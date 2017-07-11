@@ -1,0 +1,5 @@
+"0","# Getting raw counts of continuous and categorical vars, then getting fully complete ones (no NAs)"
+"0","cont <- sapply(loan_data, class) == ""numeric"""
+"0","cat <- sapply(loan_data, class) == ""character"""
+"0","cont_full <- sum(!(names(cont[cont == TRUE]) %in% sparse_count$Variable))"
+"0","cat_full <- sum(!(names(cat[cat == TRUE]) %in% sparse_count$Variable))"

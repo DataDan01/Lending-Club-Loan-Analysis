@@ -1,0 +1,2 @@
+"0","# Clipping the range for dti"
+"0","loan_data$dti[loan_data$dti < 0 | loan_data$dti > 50] = NA"

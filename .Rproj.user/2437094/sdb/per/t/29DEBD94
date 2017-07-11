@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1499533785925.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "29DEBD94",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1499533785925,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "540570E",
+        "caption" : "loan_by_emp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=loan_by_emp&cache_key=540570E",
+        "displayedObservations" : "7054",
+        "environment" : "",
+        "object" : "loan_by_emp",
+        "preview" : "0",
+        "totalObservations" : "7054",
+        "variables" : "2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

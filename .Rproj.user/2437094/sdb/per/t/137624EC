@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1499538171484.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "137624EC",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1499538171484,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "842A7C53",
+        "caption" : "loan_by_state",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=loan_by_state&cache_key=842A7C53",
+        "displayedObservations" : "49",
+        "environment" : "",
+        "object" : "loan_by_state",
+        "preview" : "0",
+        "totalObservations" : "49",
+        "variables" : "2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
